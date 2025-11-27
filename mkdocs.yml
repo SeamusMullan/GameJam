@@ -4,8 +4,6 @@ nav:
   - Home: index.md
   - Plan: plan.md
   - Schedule: schedule.md
-  - Team: team.md
-  - Contribute: how-to-contribute.md
 theme:
   name: material
 extra:

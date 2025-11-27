@@ -1,13 +1,10 @@
 # Game Jam — Documentation
 
-Welcome to the Game Jam documentation. This site collects the general plan, schedule, team roles, and contribution instructions to keep everyone aligned.
+Game Jam Theme: Space
 
-- **Purpose:** Build a playable game prototype within the jam window.
-- **Audience:** Team members, mentors, and volunteers.
+Wildcards: Gambling mechanic, Sync an aspect to music, Cel Shading (think borderlands)
 
 Quick links:
 
 - Plan — `Plan`
 - Schedule — `Schedule`
-- Team — `Team`
-- How to contribute — `Contribute`
