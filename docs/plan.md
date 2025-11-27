@@ -1,6 +1,6 @@
 # General Plan
 
-## Game name: Spacebar
+## Game name: Spacebar: Mania
 
 ## Genre of game: Wave based customer game (Overcooked)
 
