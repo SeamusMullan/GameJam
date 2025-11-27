@@ -1,0 +1,12 @@
+site_name: Game Jam — Team Pint Overflow
+site_description: High-level plan and docs for the Game Jam
+nav:
+  - Home: index.md
+  - Plan: plan.md
+  - Schedule: schedule.md
+  - Team: team.md
+  - Contribute: how-to-contribute.md
+theme:
+  name: material
+extra:
+  repo_name: GameJam
